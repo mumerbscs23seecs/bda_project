@@ -1,0 +1,8 @@
+pdfplumber==0.10.3
+datasketch==1.6.4
+scikit-learn
+streamlit==1.30.0
+numpy==1.26.2
+requests==2.31.0
+matplotlib==3.8.2
+pandas==2.1.4
